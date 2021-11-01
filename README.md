@@ -13,6 +13,7 @@ In your own directory, please run the following command in terminal.
 > bash ./DownloadAndUnzip.sh 
 
 ### Quick start
+Run the following code.
 <br>
 > python test.py  --gpu 0 --test ./test_data/minivan --weight InterpolationNetwork.pth --ndir mn
 
