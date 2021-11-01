@@ -12,6 +12,9 @@ In your own directory, please run the following command in terminal.
 <br>
 > bash ./DownloadAndUnzip.sh 
 
+You can also get the data by the following url.
+https://drive.google.com/file/d/1VxAsOcZEwXpjhxe8uJhYqxoZQvTtPWp-/view?usp=sharing
+
 ### Quick start
 Run the following code.
 <br>
