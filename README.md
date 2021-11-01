@@ -5,7 +5,7 @@ Official code and data of the paper 'Pixelwise Dynamic Convolution Neural Networ
 ---
 # How to use
 ### Dependencies
-* Pytorch > 1.3
+* Pytorch >= 1.3
 
 ### Run DownloadAndUnzip.sh
 In your own directory, please run the following command in terminal.
@@ -45,6 +45,7 @@ Run the following code.
 * network.py : *network architecture definition*
 * test.py : *evaluation code*
 * utils.py : *code for loading data*
+* InterpolationNetwork.pth : *pre-trained weight*
 
 ---
 # License
