@@ -35,7 +35,7 @@ Run the following code.
 	* test_waymo_list.txt : *list of waymo data for test* (Please download Waymo dataset via official website)
 	* waymo_mask : *intended defect data of waymo*
 
-* test_data
+* train_data
 	* train_whole : *train data*
 	* train_whole_mask : *intended defect data of train data*
 	* train_waymo_list.txt :  *list of waymo data for train* (Please download Waymo dataset via official website)
